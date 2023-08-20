@@ -15,5 +15,7 @@ Criação do main.js
 
 Feito um link de importação do Vue, dentro da pagina html.
 
+## Lição 4:
 
+Primeira utilização de **vue** , Montar o App, e depois usar o duas chaves para colocar o variavel do return do main.js 
 
