@@ -27,3 +27,18 @@ Aprendendo com o 'Attribute binding'
 
 _Por exemplo_: < a :href="url" > o : seria o binding para vincular o url para o atributo de url que está no  main.js 
 
+## Lição 6: 
+
+**Condition rendering**
+
+Nesta lição aprendí o "if", "if else", "else" do vue.  Utiliza-se o comando v-if, v-else, v-if-else.  
+
+"< p v-if="inventory > 10 " >"  (_desta maneira_) 
+
+Também aprendi o comando "v-show" , mas, desta maneira, aparecerá no html,
+
+ o "< p **display:none**> Conteúdo < /p >"
+
+ Não é aconselhado fazer desta maneira com v-show. 
+
+ 
