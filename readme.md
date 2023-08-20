@@ -11,4 +11,9 @@ Criação do main.js
 
 **Alteração:**  html vinculado com CSS e main.js 
 
+## Lição 3:
+
+Feito um link de importação do Vue, dentro da pagina html.
+
+
 
