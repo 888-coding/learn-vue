@@ -5,7 +5,7 @@ const app = Vue.createApp({
             image: './assets/images/socks_green.jpg',
             url: 'http://www.google.com',
             inventory: 0,
-            onSale: false
+            details: ['50% cotton', '30% wool', '20% polyester']
         }
     }
 })
