@@ -19,3 +19,11 @@ Feito um link de importação do Vue, dentro da pagina html.
 
 Primeira utilização de **vue** , Montar o App, e depois usar o duas chaves para colocar o variavel do return do main.js 
 
+## Lição 5:
+
+Aprendendo com o 'Attribute binding'  
+
+* Aprendi que você pode colocar o atributo do main.js dentro da expressão do tag do html , o qual fica dentro do **""**.
+
+_Por exemplo_: < a :href="url" > o : seria o binding para vincular o url para o atributo de url que está no  main.js 
+
