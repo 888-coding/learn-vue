@@ -42,3 +42,15 @@ Também aprendi o comando "v-show" , mas, desta maneira, aparecerá no html,
  Não é aconselhado fazer desta maneira com v-show. 
 
  
+## Lição 7:
+
+Aprendendo sobre Lista.  
+
+Adicionar uma lista no main.js    
+
+o uso de v-for dentro de uma tag div
+
+para facil e futuro aprendizado, lembre-se de umar um :key no final da tag div.  que será usado para o chave primaria e vincular. 
+
+_Por exemplo_ : < div v-for="product in produtos" :key = " product.id " >
+
