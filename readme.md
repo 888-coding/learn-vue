@@ -54,3 +54,10 @@ para facil e futuro aprendizado, lembre-se de umar um :key no final da tag div. 
 
 _Por exemplo_ : < div v-for="product in produtos" :key = " product.id " >
 
+## Lição 8:
+
+### Botões e eventos 
+
+Comando: v-on 
+
+Métodos (funções) em main.js
