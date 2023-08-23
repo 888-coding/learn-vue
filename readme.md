@@ -61,3 +61,11 @@ _Por exemplo_ : < div v-for="product in produtos" :key = " product.id " >
 Comando: v-on 
 
 Métodos (funções) em main.js
+
+_Exemplo_: 
+< button class="button" v-on:click="addToCart" >
+
+< button class="button" @click="addToCart" >
+
+(O evento é tão comum, que é feito um atalho de v-on para "@")
+
