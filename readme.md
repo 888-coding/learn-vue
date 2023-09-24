@@ -69,3 +69,14 @@ _Exemplo_:
 
 (O evento é tão comum, que é feito um atalho de v-on para "@")
 
+## Conclusão do aprendizado
+
+*Sobre o curso* Tem sido muito rápido a forma de aprendizado. 
+
+*Site consultado* Vue Mastery 
+
+Minha opinião:  Interessante a forma de trabalhar com Vue, é a primeira vez que tento mexer com SPA. (Single page application) Muito Legal. 
+
+Lado positivo é bom para iniciante, muitas coisas você não precisa saber o porquê, simplesmente o faz. 
+
+Lado negativo é que dentro do VS Code, eu nao consegui que editor detect codigos de vue, e portanto muitos lugares simplesmente, nao tenho a formalização das cores para facilitar o entendimento dos codigos, tags , etc. Mas, também, existe forma mais complexa de criar componentes vue, onde o qual não foi mencionado no aprendizado básico. 
