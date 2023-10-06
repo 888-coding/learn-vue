@@ -50,7 +50,7 @@ Adicionar uma lista no main.js
 
 o uso de v-for dentro de uma tag div
 
-para facil e futuro aprendizado, lembre-se de umar um :key no final da tag div.  que será usado para o chave primaria e vincular. 
+para facilitar, e futuro aprendizado; lembre-se de usar um :key no final da tag div.  que será usado para o chave primaria e vincular. 
 
 _Por exemplo_ : < div v-for="product in produtos" :key = " product.id " >
 
@@ -75,8 +75,8 @@ _Exemplo_:
 
 *Site consultado* Vue Mastery 
 
-Minha opinião:  Interessante a forma de trabalhar com Vue, é a primeira vez que tento mexer com SPA. (Single page application) Muito Legal. 
+Minha opinião:  É interessante a forma de trabalhar com Vue, é a primeira vez que tento mexer com SPA. (Single page application). É funcional, e padronizado da forma que todos seguem para melhor performance do site.
 
-Lado positivo é bom para iniciante, muitas coisas você não precisa saber o porquê, simplesmente o faz. 
+O lado positivo de VUE: é bom para iniciante, muitas coisas você não precisa saber o porquê, simplesmente o faz. 
 
-Lado negativo é que dentro do VS Code, eu nao consegui que editor detect codigos de vue, e portanto muitos lugares simplesmente, nao tenho a formalização das cores para facilitar o entendimento dos codigos, tags , etc. Mas, também, existe forma mais complexa de criar componentes vue, onde o qual não foi mencionado no aprendizado básico. 
+Lado negativo é que dentro do VS Code, eu nao consegui que editor detect codigos de vue, e portanto muitos lugares simplesmente, nao tenho a formalização das cores (lint) para facilitar o entendimento dos codigos, tags , etc. Mas, também, existe forma mais complexa de criar componentes vue, onde o qual não foi mencionado no aprendizado básico. 
